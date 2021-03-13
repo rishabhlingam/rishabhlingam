@@ -1,5 +1,5 @@
-### Hi, I’m @rishabhlingam
-    I like coffee and code;
+### Hi, I’m Rishabh Lingam ;
+    I like coffee && code ;
 
 
 <!---
